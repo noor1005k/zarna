@@ -1,0 +1,14 @@
+calss prog1
+{
+  public static void main(Stringargs[])
+  {
+   int p=1000,n=10;
+   float r=4.5f,si;
+   si=(p*r*n)/100;
+   System.out.printin("simple interest is:" +si);
+   
+  }
+}
+
+
+		
